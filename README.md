@@ -1,2 +1,2 @@
-# mycugc
+# MYCUGC
 Shared Repo for presentations
